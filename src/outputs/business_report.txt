@@ -1,0 +1,20 @@
+PPP Loan Job Creation Analysis
+
+================================
+
+
+Overall Impact:
+Total Jobs Created: 89,850,865
+Total Loan Amount: $3,086,568,549,612.71
+Average Jobs per Loan: 7.8
+
+Loan Size Efficiency:
+Most efficient loan size category: Q10
+Average jobs created in this category: 46.5
+
+Top Performing Industries (Jobs per Million Dollars):
+NAICS 339931.0: 203.5 jobs per million
+NAICS 713920.0: 130.5 jobs per million
+NAICS 422310.0: 120.0 jobs per million
+NAICS 451220.0: 112.7 jobs per million
+NAICS 722212.0: 101.2 jobs per million

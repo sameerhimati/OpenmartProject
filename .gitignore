@@ -1,0 +1,15 @@
+__pycache__
+
+.vscode
+
+.venv
+
+data
+
+oldsrc
+
+*.pkl
+
+*.csv
+
+.DS_Store

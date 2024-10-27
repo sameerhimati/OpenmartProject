@@ -1,0 +1,30 @@
+PPP Loan Program Analysis Insights
+================================
+
+Key Predictors of Job Creation:
+- InitialApprovalAmount: 0.809 importance score
+- PAYROLL_PROCEED: 0.129 importance score
+- UTILITIES_PROCEED: 0.023 importance score
+- RENT_PROCEED: 0.021 importance score
+- HEALTH_CARE_PROCEED: 0.013 importance score
+
+Loan Size Impact Analysis:
+- Smallest loans (Q1) average 1.3 jobs
+- Largest loans (Q10) average 46.5 jobs
+- Most efficient size bracket: Q10
+
+Regional Insights:
+Top performing states (jobs per million dollars):
+- AS: 60.5
+- MP: 58.9
+- GU: 52.6
+- UT: 36.5
+- NM: 35.8
+
+Industry Insights:
+Most efficient industries (jobs per million dollars):
+- NAICS 339931.0: 203.5
+- NAICS 713920.0: 130.5
+- NAICS 422310.0: 120.0
+- NAICS 451220.0: 112.7
+- NAICS 722212.0: 101.2
